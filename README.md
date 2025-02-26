@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/0x1958">
-    <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=0x1958&countColor=%23008bff" alt="Profile Views"/>
+    <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=0x1859&countColor=%23008bff" alt="Profile Views"/>
   </a>
   <a href="https://github.com/0x1958?tab=followers">
-    <img height="25" src="https://img.shields.io/github/followers/0x1958?color=008bff&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+    <img height="25" src="https://img.shields.io/github/followers/0x1859?color=008bff&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
   </a>
   <a href="https://github.com/0x1958?tab=stars">
-    <img height="25" src="https://img.shields.io/github/stars/0x1958?color=008bff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+    <img height="25" src="https://img.shields.io/github/stars/0x1859?color=008bff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
   </a>
   <br>
   <a href="https://t.me/Rx1859" target="_blank">
